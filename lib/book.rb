@@ -28,7 +28,9 @@ class Book
     @genre = genre
   end 
   
-  def gen
+  def genre
+    @genre 
+  end 
   
 end 
 
